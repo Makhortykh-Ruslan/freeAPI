@@ -33,5 +33,5 @@
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
-  "start": "node server/server.js"
+  "start": "node server.js"
 }
